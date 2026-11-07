@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.ios/commit/c6a98dc1668619e938589f0e394ae6f1a91287a2",
       "git:hexsha": "c6a98dc1668619e938589f0e394ae6f1a91287a2",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-07T13:47:55.721042+00:00"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/cisco.ios/commit/7c455466cb16fd730eb23797e5b4256180716da1",
